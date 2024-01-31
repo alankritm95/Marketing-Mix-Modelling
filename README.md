@@ -1,4 +1,4 @@
-# Market-Mix-Modelling
+# Marketing-Mix-Modelling
 
 There is science behind advertising investment, and this science is called "Marketing Mix Modeling" (MMM).
 
